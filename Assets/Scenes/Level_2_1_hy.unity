@@ -5167,7 +5167,7 @@ GameObject:
   - component: {fileID: 794629733}
   - component: {fileID: 794629737}
   m_Layer: 0
-  m_Name: 1-1
+  m_Name: 2-1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5186,7 +5186,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   person: "\u5BAB\u5973"
-  place: 
+  place: "\u540E\u9662"
   detail: evidence5
   type: "\u5A01"
 --- !u!61 &794629734

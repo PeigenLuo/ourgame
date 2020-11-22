@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{9AD72490-DF76-5180-D4C4-8C5912188777}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BagPanelManage.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/toNextScene.cs">
     <Files>
       <File FileName="Assets/Scripts/BtnOpenBag.cs" Line="16" Column="32" />
       <File FileName="Assets/Scripts/BagPanelManage.cs" Line="25" Column="49" />
@@ -7,6 +7,8 @@
       <File FileName="Assets/Scripts/LightsOnandOff.cs" Line="32" Column="1" />
       <File FileName="Assets/Scripts/UILights.cs" Line="20" Column="1" />
       <File FileName="Assets/Scripts/MusicBox.cs" Line="5" Column="38" />
+      <File FileName="Assets/Scripts/PermanentObject.cs" Line="18" Column="48" />
+      <File FileName="Assets/Scripts/toNextScene.cs" Line="22" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -13,12 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-21T23:35:37.569-06:00
+  lastUpdatedAtString: 2020-11-22T00:13:37.317-06:00
   initializedAtString: 2020-11-21T23:35:37.547-06:00
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
+  - name: origin/main
+    tracking: '[None]'
   - name: origin/master
     tracking: '[None]'
   remotes:
@@ -37,15 +39,21 @@ MonoBehaviour:
       remote:
         name: origin
         url: https://github.umn.edu/Luo00034/SPH.git
-      trackingBranch: master
+      trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
+      - main
       - master
     subKeyValues:
     - Values:
+      - name: main
+        remote:
+          name: origin
+          url: https://github.umn.edu/Luo00034/SPH.git
+        trackingBranch: 
       - name: master
         remote:
           name: origin
