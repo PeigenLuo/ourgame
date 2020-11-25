@@ -14,8 +14,10 @@ public class toNextScene : MonoBehaviour
     
     void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(nextleveltoload);
-        Debug.Log(nextleveltoload);
+        if(other.CompareTag("Player"))
+            SceneManager.LoadScene(nextleveltoload);
+        //Debug.Log(nextleveltoload);
     }
+
 }
 

@@ -113,10 +113,12 @@
     <Compile Include="Assets\Scripts\CharacterController2D.cs" />
     <Compile Include="Assets\Scripts\Level_1_2_subtitle.cs" />
     <Compile Include="Assets\Scripts\LightsOnandOff.cs" />
+    <Compile Include="Assets\Scripts\MainComponentManger.cs" />
     <Compile Include="Assets\Scripts\MusicBox.cs" />
     <Compile Include="Assets\Scripts\PermanentObject.cs" />
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
     <Compile Include="Assets\Scripts\UILights.cs" />
+    <Compile Include="Assets\Scripts\UnitySingleton.cs" />
     <Compile Include="Assets\Scripts\newPlayerController.cs" />
     <Compile Include="Assets\Scripts\toNextScene.cs" />
     <Compile Include="Assets\Scripts\toPrevScene.cs" />

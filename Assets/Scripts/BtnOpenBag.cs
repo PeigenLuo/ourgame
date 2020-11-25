@@ -12,9 +12,9 @@ public class BtnOpenBag : MonoBehaviour
     }
     private void doOpenPackage()
     {
-        BagPanelManage.inst.doShowPanel1();
-        BagPanelManage.inst.doShowPanel2();
-        BagPanelManage.inst.doShowPanel3();
+        BagPanelManage.instance.doShowPanel1();
+        BagPanelManage.instance.doShowPanel2();
+        BagPanelManage.instance.doShowPanel3();
     }
     // Update is called once per frame
     void Update()

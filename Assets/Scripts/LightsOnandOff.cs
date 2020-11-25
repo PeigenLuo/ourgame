@@ -14,7 +14,7 @@ public class LightsOnandOff : MonoBehaviour
         for(int i = 1; i < 9; i++)
         {
             GameObject light = GameObject.Find("light" + i);
-            if (BagPanelManage.inst.checkMusicDetail(i))
+            if (BagPanelManage.instance.checkMusicDetail(i))
             {
                 light.GetComponent<Image>().sprite = lightsOn;
             }

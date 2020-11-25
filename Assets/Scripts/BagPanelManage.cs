@@ -5,9 +5,9 @@ using UnityEngine.UI;
 using System;
 
 [System.Serializable]
-public class BagPanelManage : MonoBehaviour
+public class BagPanelManage : UnitySingleton<BagPanelManage>
 {
-    public static BagPanelManage inst = null;
+    public static BagPanelManage instance = null;
     
     public List<AudioClip> iAudioList = new List<AudioClip>();
     public AudioSource iAudioSource;
@@ -19,14 +19,35 @@ public class BagPanelManage : MonoBehaviour
     private List<string> iMusicList3 = new List<string>();
     public List<int> typeofMusic = new List<int>(); //range from 1 to 8, if any number exists, lighton
 
-    private void Awake()
-    {
-        inst = this;
-        DontDestroyOnLoad(transform.gameObject);
-    }
+    //private void Awake()
+    //{
+    //    //instance = this;
+    //    //DontDestroyOnLoad(instance);
+    //    if (!instance)
+    //    {
+    //        instance = this;
+    //        DontDestroyOnLoad(gameObject);
+    //    }
+    //    else
+    //        Destroy(gameObject);
+    //}
+
+    //public static BagPanelManage SharedInstance
+    //{
+    //    get
+    //    {
+    //        if (instance == null)
+    //        {
+    //            instance = MainComponentManger.AddMainComponent<BagPanelManage>();
+    //        }
+    //        return instance;
+    //    }
+    //}
+
     // Start is called before the first frame update
     void Start()
     {
+        instance = this;
         iCopyItem1 = transform.Find("Scroll View1/Viewport/item");
         iCopyItem2 = transform.Find("Scroll View2/Viewport/item");
         iCopyItem3 = transform.Find("Scroll View3/Viewport/item");

@@ -16,10 +16,10 @@ public class MusicBox : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D other) {
         Debug.Log(gameObject.name);
-        BagPanelManage.inst.doAddMusic(gameObject.name, type);
+        BagPanelManage.instance.doAddMusic(gameObject.name, type);
         if (detail != null)
         {
-            BagPanelManage.inst.addMusicDetail(detail);
+            BagPanelManage.instance.addMusicDetail(detail);
         }
         //Destroy(gameObject);
     }

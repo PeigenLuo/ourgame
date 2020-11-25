@@ -13,19 +13,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-11-22T00:13:37.317-06:00
-  initializedAtString: 2020-11-21T23:35:37.547-06:00
+  lastUpdatedAtString: 2020-11-22T16:04:01.064-06:00
+  initializedAtString: 2020-11-22T16:04:00.857-06:00
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
   - name: origin/main
     tracking: '[None]'
-  - name: origin/master
-    tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.umn.edu/Luo00034/SPH.git
+    url: git@github.com:PeigenLuo/ourgame.git
     login: 
     user: 
     host: 
@@ -38,7 +36,7 @@ MonoBehaviour:
     - name: main
       remote:
         name: origin
-        url: https://github.umn.edu/Luo00034/SPH.git
+        url: git@github.com:PeigenLuo/ourgame.git
       trackingBranch: main
   remoteConfigBranches:
     keys:
@@ -46,22 +44,16 @@ MonoBehaviour:
     subKeys:
     - Values:
       - main
-      - master
     subKeyValues:
     - Values:
       - name: main
         remote:
           name: origin
-          url: https://github.umn.edu/Luo00034/SPH.git
-        trackingBranch: 
-      - name: master
-        remote:
-          name: origin
-          url: https://github.umn.edu/Luo00034/SPH.git
+          url: git@github.com:PeigenLuo/ourgame.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.umn.edu/Luo00034/SPH.git
+      url: git@github.com:PeigenLuo/ourgame.git

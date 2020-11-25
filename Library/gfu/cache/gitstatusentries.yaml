@@ -13,15 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-11-22T16:00:03.268-06:00
-  initializedAtString: 2020-11-22T15:56:05.499-06:00
+  lastUpdatedAtString: 2020-11-24T18:31:47.405-06:00
+  initializedAtString: 2020-11-24T15:06:00.898-06:00
   entries:
-  - path: .DS_Store
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/.DS_Store"
-    projectPath: .DS_Store
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: ".vs/\u521D\u7248demo/xs/project-cache/Assembly-CSharp-Debug.json"
     fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/.vs/\u521D\u7248demo/xs/project-cache/Assembly-CSharp-Debug.json"
     projectPath: ".vs/\u521D\u7248demo/xs/project-cache/Assembly-CSharp-Debug.json"
@@ -40,795 +34,111 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/.DS_Store
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/.DS_Store"
-    projectPath: Assets/.DS_Store
+  - path: Assets/Scenes/Level_2_1_zt.unity
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scenes/Level_2_1_zt.unity"
+    projectPath: Assets/Scenes/Level_2_1_zt.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1.meta"
+  - path: Assets/Scenes/Level3-main.unity
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scenes/Level3-main.unity"
+    projectPath: Assets/Scenes/Level3-main.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/.DS_Store"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/.DS_Store"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/.DS_Store"
+  - path: Assets/Scenes/Level3-main.unity.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scenes/Level3-main.unity.meta"
+    projectPath: Assets/Scenes/Level3-main.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/1 \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/1
-      \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/1 \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG"
+  - path: Assets/Scenes/Level3-room1.unity
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scenes/Level3-room1.unity"
+    projectPath: Assets/Scenes/Level3-room1.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/1 \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/1
-      \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/1 \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
+  - path: Assets/Scenes/Level3-room1.unity.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scenes/Level3-room1.unity.meta"
+    projectPath: Assets/Scenes/Level3-room1.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/2 \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/2
-      \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/2 \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG"
+  - path: Assets/Scenes/Level3-room2.unity
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scenes/Level3-room2.unity"
+    projectPath: Assets/Scenes/Level3-room2.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/2 \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/2
-      \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/2 \u5C42-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
+  - path: Assets/Scenes/Level3-room2.unity.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scenes/Level3-room2.unity.meta"
+    projectPath: Assets/Scenes/Level3-room2.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5730\u57FA-\u4EAC\u90CA\u522B\u82D1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5730\u57FA-\u4EAC\u90CA\u522B\u82D1.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5730\u57FA-\u4EAC\u90CA\u522B\u82D1.PNG"
+  - path: Assets/Scenes/Level3-room3.unity
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scenes/Level3-room3.unity"
+    projectPath: Assets/Scenes/Level3-room3.unity
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5730\u57FA-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5730\u57FA-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5730\u57FA-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
+  - path: Assets/Scenes/Level3-room3.unity.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scenes/Level3-room3.unity.meta"
+    projectPath: Assets/Scenes/Level3-room3.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5EFA\u7B51-\u4EAC\u90CA\u522B\u82D1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5EFA\u7B51-\u4EAC\u90CA\u522B\u82D1.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5EFA\u7B51-\u4EAC\u90CA\u522B\u82D1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5EFA\u7B51-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5EFA\u7B51-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/3-\u5EFA\u7B51-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4 \u5C421-\u4EAC\u90CA\u522B\u82D1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4
-      \u5C421-\u4EAC\u90CA\u522B\u82D1.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4 \u5C421-\u4EAC\u90CA\u522B\u82D1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4 \u5C421-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4
-      \u5C421-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4 \u5C421-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4\u5C42 2-\u4EAC\u90CA\u522B\u82D1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4\u5C42
-      2-\u4EAC\u90CA\u522B\u82D1.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4\u5C42 2-\u4EAC\u90CA\u522B\u82D1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4\u5C42 2-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4\u5C42
-      2-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/4\u5C42 2-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1712.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1712.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1712.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1712.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1712.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1712.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1720.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1720.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1720.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1720.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1720.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/IMG_1720.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/\u5E95\u5C42-\u4EAC\u90CA\u522B\u82D1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/\u5E95\u5C42-\u4EAC\u90CA\u522B\u82D1.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/\u5E95\u5C42-\u4EAC\u90CA\u522B\u82D1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/\u5E95\u5C42-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/\u5E95\u5C42-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u522B\u82D1/\u5E95\u5C42-\u4EAC\u90CA\u522B\u82D1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/.DS_Store"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/.DS_Store"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/.DS_Store"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/1 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/1
-      \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/1 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/1 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/1
-      \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/1 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/2 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/2
-      \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/2 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/2 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/2
-      \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/2 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3 \u4EAD\u5B50-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3
-      \u4EAD\u5B50-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3 \u4EAD\u5B50-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3 \u4EAD\u5B50-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3
-      \u4EAD\u5B50-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3 \u4EAD\u5B50-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3
-      \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3
-      \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/3 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4
-      \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4
-      \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4 \u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4-\u5730\u57FA-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4-\u5730\u57FA-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4-\u5730\u57FA-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4-\u5730\u57FA-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4-\u5730\u57FA-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/4-\u5730\u57FA-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u5E95\u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u5E95\u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u5E95\u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u5E95\u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u5E95\u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u5E95\u5C42-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u6548\u679C-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u6548\u679C-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u6548\u679C-\u4EAC\u90CA\u82B1\u56ED.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u6548\u679C-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u6548\u679C-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EAC\u90CA\u82B1\u56ED/\u6548\u679C-\u4EAC\u90CA\u82B1\u56ED.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886.meta"
-    projectPath: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u5934\u50CF.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u5934\u50CF.PNG"
-    projectPath: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u5934\u50CF.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u5934\u50CF.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u5934\u50CF.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u5934\u50CF.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u9759\u6B62.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u9759\u6B62.PNG"
-    projectPath: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u9759\u6B62.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u9759\u6B62.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u9759\u6B62.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u591C\u83BA\u7EDF\u9886/\u591C\u83BA\u7EDF\u9886-\u9759\u6B62.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u5C0F\u4F8D\u4ECE.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u5C0F\u4F8D\u4ECE.meta"
-    projectPath: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u5C0F\u4F8D\u4ECE.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u5C0F\u4F8D\u4ECE/\u5C0F\u4F8D\u4ECE-\u5934\u50CF.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u5C0F\u4F8D\u4ECE/\u5C0F\u4F8D\u4ECE-\u5934\u50CF.PNG"
-    projectPath: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u5C0F\u4F8D\u4ECE/\u5C0F\u4F8D\u4ECE-\u5934\u50CF.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u5C0F\u4F8D\u4ECE/\u5C0F\u4F8D\u4ECE-\u5934\u50CF.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u5C0F\u4F8D\u4ECE/\u5C0F\u4F8D\u4ECE-\u5934\u50CF.PNG.meta"
-    projectPath: "Assets/Artwork/\u4EBA\u7269\u53CA\u52A8\u4F5C/\u5C0F\u4F8D\u4ECE/\u5C0F\u4F8D\u4ECE-\u5934\u50CF.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4.meta"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/.DS_Store"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/.DS_Store"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/.DS_Store"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/1 \u5C42-\u522B\u82D1\u623F\u95F4.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/1
-      \u5C42-\u522B\u82D1\u623F\u95F4.PNG"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/1 \u5C42-\u522B\u82D1\u623F\u95F4.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/1 \u5C42-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/1
-      \u5C42-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/1 \u5C42-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/2 \u5C42 1-\u522B\u82D1\u623F\u95F4.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/2
-      \u5C42 1-\u522B\u82D1\u623F\u95F4.PNG"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/2 \u5C42 1-\u522B\u82D1\u623F\u95F4.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/2 \u5C42 1-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/2
-      \u5C42 1-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/2 \u5C42 1-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/2 \u5C42 2-\u522B\u82D1\u623F\u95F4.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/2
-      \u5C42 2-\u522B\u82D1\u623F\u95F4.PNG"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/2 \u5C42 2-\u522B\u82D1\u623F\u95F4.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/2 \u5C42 2-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/2
-      \u5C42 2-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/2 \u5C42 2-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u5E95\u5C42-\u522B\u82D1\u623F\u95F4.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u5E95\u5C42-\u522B\u82D1\u623F\u95F4.PNG"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u5E95\u5C42-\u522B\u82D1\u623F\u95F4.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u5E95\u5C42-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u5E95\u5C42-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u5E95\u5C42-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u6548\u679C\u56FE-\u522B\u82D1\u623F\u95F4.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u6548\u679C\u56FE-\u522B\u82D1\u623F\u95F4.PNG"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u6548\u679C\u56FE-\u522B\u82D1\u623F\u95F4.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u6548\u679C\u56FE-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u6548\u679C\u56FE-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    projectPath: "Assets/Artwork/\u522B\u82D1\u623F\u95F4/\u6548\u679C\u56FE-\u522B\u82D1\u623F\u95F4.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09.meta"
-    projectPath: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/.DS_Store"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/.DS_Store"
-    projectPath: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/.DS_Store"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u6548\u679C\u56FE-\u5F00\u573A.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u6548\u679C\u56FE-\u5F00\u573A.PNG"
-    projectPath: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u6548\u679C\u56FE-\u5F00\u573A.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u6548\u679C\u56FE-\u5F00\u573A.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u6548\u679C\u56FE-\u5F00\u573A.PNG.meta"
-    projectPath: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u6548\u679C\u56FE-\u5F00\u573A.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u674F\u82B1-\u5F00\u573A.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u674F\u82B1-\u5F00\u573A.PNG"
-    projectPath: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u674F\u82B1-\u5F00\u573A.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u674F\u82B1-\u5F00\u573A.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u674F\u82B1-\u5F00\u573A.PNG.meta"
-    projectPath: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u674F\u82B1-\u5F00\u573A.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u80CC\u666F-\u5F00\u573A.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u80CC\u666F-\u5F00\u573A.PNG"
-    projectPath: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u80CC\u666F-\u5F00\u573A.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u80CC\u666F-\u5F00\u573A.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u80CC\u666F-\u5F00\u573A.PNG.meta"
-    projectPath: "Assets/Artwork/\u52A8\u753B\u573A\u666F\uFF08\u674F\u82B1\uFF09/\u80CC\u666F-\u5F00\u573A.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750.meta"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/.DS_Store"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/.DS_Store"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/.DS_Store"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u5047\u5C71.png"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u5047\u5C71.png"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u5047\u5C71.png"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u5047\u5C71.png.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u5047\u5C71.png.meta"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u5047\u5C71.png.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u674F\u82B1.png"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u674F\u82B1.png"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u674F\u82B1.png"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u674F\u82B1.png.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u674F\u82B1.png.meta"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u674F\u82B1.png.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u677E\u6811.png"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u677E\u6811.png"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u677E\u6811.png"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u677E\u6811.png.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u677E\u6811.png.meta"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u677E\u6811.png.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67D0\u79CD\u6811.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67D0\u79CD\u6811.PNG"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67D0\u79CD\u6811.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67D0\u79CD\u6811.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67D0\u79CD\u6811.PNG.meta"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67D0\u79CD\u6811.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67F3\u6811.png"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67F3\u6811.png"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67F3\u6811.png"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67F3\u6811.png.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67F3\u6811.png.meta"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u67F3\u6811.png.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u6843\u82B1.png"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u6843\u82B1.png"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u6843\u82B1.png"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u6843\u82B1.png.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u6843\u82B1.png.meta"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u6843\u82B1.png.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u7AF9\u5B50.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u7AF9\u5B50.PNG"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u7AF9\u5B50.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u7AF9\u5B50.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u7AF9\u5B50.PNG.meta"
-    projectPath: "Assets/Artwork/\u5355\u4E2A\u7D20\u6750/\u7D20\u6750-\u7AF9\u5B50.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5BDD\u820D/4 \u8FD1\u666F-\u690D\u72691-\u5BDD\u820D.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5BDD\u820D/4
-      \u8FD1\u666F-\u690D\u72691-\u5BDD\u820D.PNG"
-    projectPath: "Assets/Artwork/\u5BDD\u820D/4 \u8FD1\u666F-\u690D\u72691-\u5BDD\u820D.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5BDD\u820D/4 \u8FD1\u666F-\u690D\u72691-\u5BDD\u820D.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5BDD\u820D/4
-      \u8FD1\u666F-\u690D\u72691-\u5BDD\u820D.PNG.meta"
-    projectPath: "Assets/Artwork/\u5BDD\u820D/4 \u8FD1\u666F-\u690D\u72691-\u5BDD\u820D.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5BDD\u820D/4 \u8FD1\u666F-\u690D\u72692-\u5BDD\u820D.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5BDD\u820D/4
-      \u8FD1\u666F-\u690D\u72692-\u5BDD\u820D.PNG"
-    projectPath: "Assets/Artwork/\u5BDD\u820D/4 \u8FD1\u666F-\u690D\u72692-\u5BDD\u820D.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u5BDD\u820D/4 \u8FD1\u666F-\u690D\u72692-\u5BDD\u820D.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u5BDD\u820D/4
-      \u8FD1\u666F-\u690D\u72692-\u5BDD\u820D.PNG.meta"
-    projectPath: "Assets/Artwork/\u5BDD\u820D/4 \u8FD1\u666F-\u690D\u72692-\u5BDD\u820D.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1.meta"
-    projectPath: "Assets/Artwork/\u674F\u82B1.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/.DS_Store"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/.DS_Store"
-    projectPath: "Assets/Artwork/\u674F\u82B1/.DS_Store"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/1 \u5C422-\u674F\u82B1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/1
-      \u5C422-\u674F\u82B1.PNG"
-    projectPath: "Assets/Artwork/\u674F\u82B1/1 \u5C422-\u674F\u82B1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/1 \u5C422-\u674F\u82B1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/1
-      \u5C422-\u674F\u82B1.PNG.meta"
-    projectPath: "Assets/Artwork/\u674F\u82B1/1 \u5C422-\u674F\u82B1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/1 \u5C423-\u674F\u82B1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/1
-      \u5C423-\u674F\u82B1.PNG"
-    projectPath: "Assets/Artwork/\u674F\u82B1/1 \u5C423-\u674F\u82B1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/1 \u5C423-\u674F\u82B1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/1
-      \u5C423-\u674F\u82B1.PNG.meta"
-    projectPath: "Assets/Artwork/\u674F\u82B1/1 \u5C423-\u674F\u82B1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/1 \u5C424-\u674F\u82B1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/1
-      \u5C424-\u674F\u82B1.PNG"
-    projectPath: "Assets/Artwork/\u674F\u82B1/1 \u5C424-\u674F\u82B1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/1 \u5C424-\u674F\u82B1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/1
-      \u5C424-\u674F\u82B1.PNG.meta"
-    projectPath: "Assets/Artwork/\u674F\u82B1/1 \u5C424-\u674F\u82B1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/1 \u5C42-\u674F\u82B1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/1
-      \u5C42-\u674F\u82B1.PNG"
-    projectPath: "Assets/Artwork/\u674F\u82B1/1 \u5C42-\u674F\u82B1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/1 \u5C42-\u674F\u82B1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/1
-      \u5C42-\u674F\u82B1.PNG.meta"
-    projectPath: "Assets/Artwork/\u674F\u82B1/1 \u5C42-\u674F\u82B1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/\u5E95\u5C42=\u674F\u82B1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/\u5E95\u5C42=\u674F\u82B1.PNG"
-    projectPath: "Assets/Artwork/\u674F\u82B1/\u5E95\u5C42=\u674F\u82B1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/\u5E95\u5C42=\u674F\u82B1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/\u5E95\u5C42=\u674F\u82B1.PNG.meta"
-    projectPath: "Assets/Artwork/\u674F\u82B1/\u5E95\u5C42=\u674F\u82B1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/\u6548\u679C\u56FE-\u674F\u82B1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/\u6548\u679C\u56FE-\u674F\u82B1.PNG"
-    projectPath: "Assets/Artwork/\u674F\u82B1/\u6548\u679C\u56FE-\u674F\u82B1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u674F\u82B1/\u6548\u679C\u56FE-\u674F\u82B1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u674F\u82B1/\u6548\u679C\u56FE-\u674F\u82B1.PNG.meta"
-    projectPath: "Assets/Artwork/\u674F\u82B1/\u6548\u679C\u56FE-\u674F\u82B1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1.meta"
-    projectPath: "Assets/Artwork/\u7269\u54C1.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/.DS_Store"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/.DS_Store"
-    projectPath: "Assets/Artwork/\u7269\u54C1/.DS_Store"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-1.PNG"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-1.PNG.meta"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-2.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-2.PNG"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-2.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-2.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-2.PNG.meta"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u5BAB\u706F-2.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u67F3\u679D-1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u67F3\u679D-1.PNG"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u67F3\u679D-1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u67F3\u679D-1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u67F3\u679D-1.PNG.meta"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u67F3\u679D-1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u67F3\u679D-2.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u67F3\u679D-2.PNG"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u67F3\u679D-2.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u67F3\u679D-2.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u67F3\u679D-2.PNG.meta"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u67F3\u679D-2.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-1.PNG"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-1.PNG.meta"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-2.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-2.PNG"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-2.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-2.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-2.PNG.meta"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u7559\u58F0\u77F3-2.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-1.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-1.PNG"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-1.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-1.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-1.PNG.meta"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-1.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-2.PNG"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-2.PNG"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-2.PNG"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: "Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-2.PNG.meta"
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-2.PNG.meta"
-    projectPath: "Assets/Artwork/\u7269\u54C1/\u7C2A\u5B50-2.PNG.meta"
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/.1_normal_ui_set free.psd.icloud
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Fantasy
-      Wooden GUI  Free/normal_ui_set A/.1_normal_ui_set free.psd.icloud"
-    projectPath: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/.1_normal_ui_set
-      free.psd.icloud
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set free.psd
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Fantasy
-      Wooden GUI  Free/normal_ui_set A/1_normal_ui_set free.psd"
-    projectPath: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set
-      free.psd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set free.psd.meta
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Fantasy
-      Wooden GUI  Free/normal_ui_set A/1_normal_ui_set free.psd.meta"
-    projectPath: Assets/Fantasy Wooden GUI  Free/normal_ui_set A/1_normal_ui_set
-      free.psd.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets/Scenes/Level_2_1_hy.unity
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scenes/Level_2_1_hy.unity"
-    projectPath: Assets/Scenes/Level_2_1_hy.unity
+  - path: Assets/Scripts/BagPanelManage.cs
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/BagPanelManage.cs"
+    projectPath: Assets/Scripts/BagPanelManage.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets/Scripts/PermanentObject.cs
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/PermanentObject.cs"
-    projectPath: Assets/Scripts/PermanentObject.cs
+  - path: Assets/Scripts/BtnOpenBag.cs
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/BtnOpenBag.cs"
+    projectPath: Assets/Scripts/BtnOpenBag.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/LightsOnandOff.cs
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/LightsOnandOff.cs"
+    projectPath: Assets/Scripts/LightsOnandOff.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/MainComponentManger.cs
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/MainComponentManger.cs"
+    projectPath: Assets/Scripts/MainComponentManger.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets/Scripts/PermanentObject.cs.meta
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/PermanentObject.cs.meta"
-    projectPath: Assets/Scripts/PermanentObject.cs.meta
+  - path: Assets/Scripts/MainComponentManger.cs.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/MainComponentManger.cs.meta"
+    projectPath: Assets/Scripts/MainComponentManger.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/MusicBox.cs
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/MusicBox.cs"
+    projectPath: Assets/Scripts/MusicBox.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/toNextScene.cs
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/toNextScene.cs"
+    projectPath: Assets/Scripts/toNextScene.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scripts/UnitySingleton.cs
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/UnitySingleton.cs"
+    projectPath: Assets/Scripts/UnitySingleton.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets/Scripts/UnitySingleton.cs.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Assets/Scripts/UnitySingleton.cs.meta"
+    projectPath: Assets/Scripts/UnitySingleton.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -838,657 +148,159 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library/Artifacts/02/02947a5a7fde335ac9e4517098f759c1
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/02/02947a5a7fde335ac9e4517098f759c1"
-    projectPath: Library/Artifacts/02/02947a5a7fde335ac9e4517098f759c1
+  - path: Library/Artifacts/10/10591805cd099a748366d203cdc40240
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/10/10591805cd099a748366d203cdc40240"
+    projectPath: Library/Artifacts/10/10591805cd099a748366d203cdc40240
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/05/0561f32952777b771ad7e2dfb7a299e7
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/05/0561f32952777b771ad7e2dfb7a299e7"
-    projectPath: Library/Artifacts/05/0561f32952777b771ad7e2dfb7a299e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/06/06ace418a293950db235adf80d96306f
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/06/06ace418a293950db235adf80d96306f"
-    projectPath: Library/Artifacts/06/06ace418a293950db235adf80d96306f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0a/0aab7aa6ec26a2cafff547508d4e0e46
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/0a/0aab7aa6ec26a2cafff547508d4e0e46"
-    projectPath: Library/Artifacts/0a/0aab7aa6ec26a2cafff547508d4e0e46
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0c/0c4a87360f853c79d1747a34d825c0f3
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/0c/0c4a87360f853c79d1747a34d825c0f3"
-    projectPath: Library/Artifacts/0c/0c4a87360f853c79d1747a34d825c0f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0c/0c63e1874460344eb15b256b0afbe465
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/0c/0c63e1874460344eb15b256b0afbe465"
-    projectPath: Library/Artifacts/0c/0c63e1874460344eb15b256b0afbe465
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0d/0db252302225b3cc6717599595284b7a
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/0d/0db252302225b3cc6717599595284b7a"
-    projectPath: Library/Artifacts/0d/0db252302225b3cc6717599595284b7a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/0e/0ee94ddd4a03195e20a0cdc3ab6fa2df
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/0e/0ee94ddd4a03195e20a0cdc3ab6fa2df"
-    projectPath: Library/Artifacts/0e/0ee94ddd4a03195e20a0cdc3ab6fa2df
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/12/122625ebbca822d74d38bf17c998cee3
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/12/122625ebbca822d74d38bf17c998cee3"
-    projectPath: Library/Artifacts/12/122625ebbca822d74d38bf17c998cee3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/18/18b72897f3a7b5295c5c2c43bf614c85
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/18/18b72897f3a7b5295c5c2c43bf614c85"
-    projectPath: Library/Artifacts/18/18b72897f3a7b5295c5c2c43bf614c85
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/1d/1d858b6558688b34344ade750a50c75b
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/1d/1d858b6558688b34344ade750a50c75b"
-    projectPath: Library/Artifacts/1d/1d858b6558688b34344ade750a50c75b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/22/224de19b1dbe46bbabcdcf64fba6359c
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/22/224de19b1dbe46bbabcdcf64fba6359c"
-    projectPath: Library/Artifacts/22/224de19b1dbe46bbabcdcf64fba6359c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/25/2503b8b1c12eac259e3ad7e26991b79d
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/25/2503b8b1c12eac259e3ad7e26991b79d"
-    projectPath: Library/Artifacts/25/2503b8b1c12eac259e3ad7e26991b79d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/25/2564294f1fcbdd70cf9ce24397527500
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/25/2564294f1fcbdd70cf9ce24397527500"
-    projectPath: Library/Artifacts/25/2564294f1fcbdd70cf9ce24397527500
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/28/28073265b0fe0a0f7bb0e527138d4e0e
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/28/28073265b0fe0a0f7bb0e527138d4e0e"
-    projectPath: Library/Artifacts/28/28073265b0fe0a0f7bb0e527138d4e0e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/2c/2c0e8799b06bf82e6f295ef3b4859cad
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/2c/2c0e8799b06bf82e6f295ef3b4859cad"
-    projectPath: Library/Artifacts/2c/2c0e8799b06bf82e6f295ef3b4859cad
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/2f/2ff7adad3465fe009308c6657da2d58d
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/2f/2ff7adad3465fe009308c6657da2d58d"
-    projectPath: Library/Artifacts/2f/2ff7adad3465fe009308c6657da2d58d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/34/344996e368ef85295f520f5b3b0b9543
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/34/344996e368ef85295f520f5b3b0b9543"
-    projectPath: Library/Artifacts/34/344996e368ef85295f520f5b3b0b9543
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/39/39e5f7bb35706468aea6508f9a899b06
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/39/39e5f7bb35706468aea6508f9a899b06"
-    projectPath: Library/Artifacts/39/39e5f7bb35706468aea6508f9a899b06
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3b/3b4d060cdd3355f8d0ddb70d59d137b0
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/3b/3b4d060cdd3355f8d0ddb70d59d137b0"
-    projectPath: Library/Artifacts/3b/3b4d060cdd3355f8d0ddb70d59d137b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3b/3ba6cec800ef12daaf5b909e71f03b7d
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/3b/3ba6cec800ef12daaf5b909e71f03b7d"
-    projectPath: Library/Artifacts/3b/3ba6cec800ef12daaf5b909e71f03b7d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3c/3c99ce314a83acfb02a850d6ec4a7c1f
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/3c/3c99ce314a83acfb02a850d6ec4a7c1f"
-    projectPath: Library/Artifacts/3c/3c99ce314a83acfb02a850d6ec4a7c1f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3e/3e37fc12ad7960a910f2472b90621704
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/3e/3e37fc12ad7960a910f2472b90621704"
-    projectPath: Library/Artifacts/3e/3e37fc12ad7960a910f2472b90621704
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3e/3e3e22c22a39d72da6a98fc9aa74ed7b
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/3e/3e3e22c22a39d72da6a98fc9aa74ed7b"
-    projectPath: Library/Artifacts/3e/3e3e22c22a39d72da6a98fc9aa74ed7b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/3e/3eab7d9862300c81dc396b767188e754
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/3e/3eab7d9862300c81dc396b767188e754"
-    projectPath: Library/Artifacts/3e/3eab7d9862300c81dc396b767188e754
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/40/40b1299ff4c6a0fc4898c6975f5b890f
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/40/40b1299ff4c6a0fc4898c6975f5b890f"
-    projectPath: Library/Artifacts/40/40b1299ff4c6a0fc4898c6975f5b890f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/41/413b5a171c6a4c363ea0a6fa452bfbd6
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/41/413b5a171c6a4c363ea0a6fa452bfbd6"
-    projectPath: Library/Artifacts/41/413b5a171c6a4c363ea0a6fa452bfbd6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/41/4174ff981cb908ddef7ca42cdd482c5d
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/41/4174ff981cb908ddef7ca42cdd482c5d"
-    projectPath: Library/Artifacts/41/4174ff981cb908ddef7ca42cdd482c5d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/41/418efaa839669e6b3e0cb36d28714a01
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/41/418efaa839669e6b3e0cb36d28714a01"
-    projectPath: Library/Artifacts/41/418efaa839669e6b3e0cb36d28714a01
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/42/423e30796138ba4235f1731487d88ae6
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/42/423e30796138ba4235f1731487d88ae6"
-    projectPath: Library/Artifacts/42/423e30796138ba4235f1731487d88ae6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/43/4352c927621d830e2e664a68c3acaa6c
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/43/4352c927621d830e2e664a68c3acaa6c"
-    projectPath: Library/Artifacts/43/4352c927621d830e2e664a68c3acaa6c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/47/4711e59cda2da8c3c38057221fa185a1
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/47/4711e59cda2da8c3c38057221fa185a1"
-    projectPath: Library/Artifacts/47/4711e59cda2da8c3c38057221fa185a1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4b/4b2c63ca05552fac6a9c1dc6201f2768
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/4b/4b2c63ca05552fac6a9c1dc6201f2768"
-    projectPath: Library/Artifacts/4b/4b2c63ca05552fac6a9c1dc6201f2768
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4b/4bade605f817c4eba5a3cc07acebd9b7
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/4b/4bade605f817c4eba5a3cc07acebd9b7"
-    projectPath: Library/Artifacts/4b/4bade605f817c4eba5a3cc07acebd9b7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4b/4bea82d62558cd5e7bd953a04d03165a
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/4b/4bea82d62558cd5e7bd953a04d03165a"
-    projectPath: Library/Artifacts/4b/4bea82d62558cd5e7bd953a04d03165a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4c/4c5296188cd48cac9f7ea15080dc67b2
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/4c/4c5296188cd48cac9f7ea15080dc67b2"
-    projectPath: Library/Artifacts/4c/4c5296188cd48cac9f7ea15080dc67b2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4e/4e68ef7d8db44c74b74d00ea41fe3860
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/4e/4e68ef7d8db44c74b74d00ea41fe3860"
-    projectPath: Library/Artifacts/4e/4e68ef7d8db44c74b74d00ea41fe3860
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4e/4e9c9dd6bd4af6d4379f149caf3fa47d
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/4e/4e9c9dd6bd4af6d4379f149caf3fa47d"
-    projectPath: Library/Artifacts/4e/4e9c9dd6bd4af6d4379f149caf3fa47d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/4f/4f091ed3520c602ae72ad2a2e5fc9611
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/4f/4f091ed3520c602ae72ad2a2e5fc9611"
-    projectPath: Library/Artifacts/4f/4f091ed3520c602ae72ad2a2e5fc9611
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/50/501829c8ce4c8368e81d53dcabf01fdd
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/50/501829c8ce4c8368e81d53dcabf01fdd"
-    projectPath: Library/Artifacts/50/501829c8ce4c8368e81d53dcabf01fdd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/56/56fcf45510aab7dfd30a96aa8cc8029f
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/56/56fcf45510aab7dfd30a96aa8cc8029f"
-    projectPath: Library/Artifacts/56/56fcf45510aab7dfd30a96aa8cc8029f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5a/5a9a356474abb40dfbf302708342c8dc
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/5a/5a9a356474abb40dfbf302708342c8dc"
-    projectPath: Library/Artifacts/5a/5a9a356474abb40dfbf302708342c8dc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5a/5ab1d7f504f238998840862d22003935
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/5a/5ab1d7f504f238998840862d22003935"
-    projectPath: Library/Artifacts/5a/5ab1d7f504f238998840862d22003935
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5b/5b8a3801c1e461dc2f073d9878edcb8f
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/5b/5b8a3801c1e461dc2f073d9878edcb8f"
-    projectPath: Library/Artifacts/5b/5b8a3801c1e461dc2f073d9878edcb8f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5b/5be1d7a8c22af52df2bac47923ce10ed
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/5b/5be1d7a8c22af52df2bac47923ce10ed"
-    projectPath: Library/Artifacts/5b/5be1d7a8c22af52df2bac47923ce10ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5b/5bf0d199ea8dede2c604a9a3f44f7f9f
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/5b/5bf0d199ea8dede2c604a9a3f44f7f9f"
-    projectPath: Library/Artifacts/5b/5bf0d199ea8dede2c604a9a3f44f7f9f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5c/5c782fe7238d76722a60250aeda85c73
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/5c/5c782fe7238d76722a60250aeda85c73"
-    projectPath: Library/Artifacts/5c/5c782fe7238d76722a60250aeda85c73
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/5f/5f61ac68cf543126b8cbedf2a3ef8edc
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/5f/5f61ac68cf543126b8cbedf2a3ef8edc"
-    projectPath: Library/Artifacts/5f/5f61ac68cf543126b8cbedf2a3ef8edc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/64/644164f0d8ccdd4adf87cf3aa0fb2d31
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/64/644164f0d8ccdd4adf87cf3aa0fb2d31"
-    projectPath: Library/Artifacts/64/644164f0d8ccdd4adf87cf3aa0fb2d31
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/64/6477c917f7f9bc2b3311f9d17de67de8
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/64/6477c917f7f9bc2b3311f9d17de67de8"
-    projectPath: Library/Artifacts/64/6477c917f7f9bc2b3311f9d17de67de8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/65/657c0fa1cb4996cfa1bb2bdc143fa0a8
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/65/657c0fa1cb4996cfa1bb2bdc143fa0a8"
-    projectPath: Library/Artifacts/65/657c0fa1cb4996cfa1bb2bdc143fa0a8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/66/6662d509d251cfc8eecb3be36c41639a
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/66/6662d509d251cfc8eecb3be36c41639a"
-    projectPath: Library/Artifacts/66/6662d509d251cfc8eecb3be36c41639a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/6d/6d46fab33fd60dfa8b01495ad9ca355b
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/6d/6d46fab33fd60dfa8b01495ad9ca355b"
-    projectPath: Library/Artifacts/6d/6d46fab33fd60dfa8b01495ad9ca355b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/6e/6e897c087730069e11dd012e28e7634f
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/6e/6e897c087730069e11dd012e28e7634f"
-    projectPath: Library/Artifacts/6e/6e897c087730069e11dd012e28e7634f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/70/70c516a12996901478fb757dcd6387be
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/70/70c516a12996901478fb757dcd6387be"
-    projectPath: Library/Artifacts/70/70c516a12996901478fb757dcd6387be
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/70/70f655a1e2576a3769139d78e79a969b
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/70/70f655a1e2576a3769139d78e79a969b"
-    projectPath: Library/Artifacts/70/70f655a1e2576a3769139d78e79a969b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/70/70f7edaf8e16eab1f6b593aea5d50d9b
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/70/70f7edaf8e16eab1f6b593aea5d50d9b"
-    projectPath: Library/Artifacts/70/70f7edaf8e16eab1f6b593aea5d50d9b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/71/71fc1198a19a48b0cca35d2cdb93eafc
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/71/71fc1198a19a48b0cca35d2cdb93eafc"
-    projectPath: Library/Artifacts/71/71fc1198a19a48b0cca35d2cdb93eafc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/73/73a1b0eea37da5a140d3abfd24234b6b
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/73/73a1b0eea37da5a140d3abfd24234b6b"
-    projectPath: Library/Artifacts/73/73a1b0eea37da5a140d3abfd24234b6b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/78/7893e0a93591b95e118b1c00c8680c4b
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/78/7893e0a93591b95e118b1c00c8680c4b"
-    projectPath: Library/Artifacts/78/7893e0a93591b95e118b1c00c8680c4b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7d/7d0e36946c1860ba8dbda80932f5197f
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/7d/7d0e36946c1860ba8dbda80932f5197f"
-    projectPath: Library/Artifacts/7d/7d0e36946c1860ba8dbda80932f5197f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7d/7deca3def8a233f1a3edf89ef045ccf9
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/7d/7deca3def8a233f1a3edf89ef045ccf9"
-    projectPath: Library/Artifacts/7d/7deca3def8a233f1a3edf89ef045ccf9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/7f/7ff93b3e57dbe3aa4ac620dfc9e46c38
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/7f/7ff93b3e57dbe3aa4ac620dfc9e46c38"
-    projectPath: Library/Artifacts/7f/7ff93b3e57dbe3aa4ac620dfc9e46c38
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/80/8015b1cb0f515f87bcb14893acd308c5
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/80/8015b1cb0f515f87bcb14893acd308c5"
-    projectPath: Library/Artifacts/80/8015b1cb0f515f87bcb14893acd308c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/81/8175747dedc5facbe708ae6af699fe39
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/81/8175747dedc5facbe708ae6af699fe39"
-    projectPath: Library/Artifacts/81/8175747dedc5facbe708ae6af699fe39
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/85/8554665d845253ba52134edd83f51c3c
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/85/8554665d845253ba52134edd83f51c3c"
-    projectPath: Library/Artifacts/85/8554665d845253ba52134edd83f51c3c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/87/87a6fdcc8c5574dd3a8c483495459fa0
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/87/87a6fdcc8c5574dd3a8c483495459fa0"
-    projectPath: Library/Artifacts/87/87a6fdcc8c5574dd3a8c483495459fa0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/89/895f9607ed8b434cd252e11f8cf662ca
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/89/895f9607ed8b434cd252e11f8cf662ca"
-    projectPath: Library/Artifacts/89/895f9607ed8b434cd252e11f8cf662ca
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/91/917776a783197bd8525277ef2d6d3177
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/91/917776a783197bd8525277ef2d6d3177"
-    projectPath: Library/Artifacts/91/917776a783197bd8525277ef2d6d3177
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/92/92dbcac88e909e2ce717379db53d3b20
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/92/92dbcac88e909e2ce717379db53d3b20"
-    projectPath: Library/Artifacts/92/92dbcac88e909e2ce717379db53d3b20
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/97/977401e856159345f986758306bd9e92
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/97/977401e856159345f986758306bd9e92"
-    projectPath: Library/Artifacts/97/977401e856159345f986758306bd9e92
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/9e/9ee12cc8f147a2c3f9022fa481c49029
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/9e/9ee12cc8f147a2c3f9022fa481c49029"
-    projectPath: Library/Artifacts/9e/9ee12cc8f147a2c3f9022fa481c49029
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a2/a2294e72f70dcdaed40647aaa61c1f02
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/a2/a2294e72f70dcdaed40647aaa61c1f02"
-    projectPath: Library/Artifacts/a2/a2294e72f70dcdaed40647aaa61c1f02
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a2/a2e59a96b1a137845e3ab1a132a3d09f
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/a2/a2e59a96b1a137845e3ab1a132a3d09f"
-    projectPath: Library/Artifacts/a2/a2e59a96b1a137845e3ab1a132a3d09f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a4/a44f95eb13c93ee4683c88f410ccb275
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/a4/a44f95eb13c93ee4683c88f410ccb275"
-    projectPath: Library/Artifacts/a4/a44f95eb13c93ee4683c88f410ccb275
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a6/a6a7e6749bd1ef62c197189dda14c45f
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/a6/a6a7e6749bd1ef62c197189dda14c45f"
-    projectPath: Library/Artifacts/a6/a6a7e6749bd1ef62c197189dda14c45f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/a9/a97ef6c79b6971ef5998d6c75534ddb4
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/a9/a97ef6c79b6971ef5998d6c75534ddb4"
-    projectPath: Library/Artifacts/a9/a97ef6c79b6971ef5998d6c75534ddb4
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/13/139a697115a4e5b9e6eae434e42455c7
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/13/139a697115a4e5b9e6eae434e42455c7"
+    projectPath: Library/Artifacts/13/139a697115a4e5b9e6eae434e42455c7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/af/afcab8ffb9e5fed12351dfbc90a02707
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/af/afcab8ffb9e5fed12351dfbc90a02707"
-    projectPath: Library/Artifacts/af/afcab8ffb9e5fed12351dfbc90a02707
+  - path: Library/Artifacts/1b/1b419943daba853084e28464eef70d44
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/1b/1b419943daba853084e28464eef70d44"
+    projectPath: Library/Artifacts/1b/1b419943daba853084e28464eef70d44
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b0/b0fe0de83775cdd3702f835de5727a99
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/b0/b0fe0de83775cdd3702f835de5727a99"
-    projectPath: Library/Artifacts/b0/b0fe0de83775cdd3702f835de5727a99
+  - path: Library/Artifacts/29/290d732962b06ff8dccc3822ca8c9eab
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/29/290d732962b06ff8dccc3822ca8c9eab"
+    projectPath: Library/Artifacts/29/290d732962b06ff8dccc3822ca8c9eab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b1/b15e69adfecda94691b6d5930b84f861
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/b1/b15e69adfecda94691b6d5930b84f861"
-    projectPath: Library/Artifacts/b1/b15e69adfecda94691b6d5930b84f861
+  - path: Library/Artifacts/33/33ade8819a097f3f0d4f4bac0a108080
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/33/33ade8819a097f3f0d4f4bac0a108080"
+    projectPath: Library/Artifacts/33/33ade8819a097f3f0d4f4bac0a108080
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/b5/b5ed62ccbe319191a3c8d5797e6f1348
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/b5/b5ed62ccbe319191a3c8d5797e6f1348"
-    projectPath: Library/Artifacts/b5/b5ed62ccbe319191a3c8d5797e6f1348
+  - path: Library/Artifacts/3e/3e8609d67d9d17b0f81cfba86ee2f7bc
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/3e/3e8609d67d9d17b0f81cfba86ee2f7bc"
+    projectPath: Library/Artifacts/3e/3e8609d67d9d17b0f81cfba86ee2f7bc
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b6/b652d8c9ec775fde6d6c8db5ba12848d
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/b6/b652d8c9ec775fde6d6c8db5ba12848d"
-    projectPath: Library/Artifacts/b6/b652d8c9ec775fde6d6c8db5ba12848d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b8/b874f26a75f88e0c2d3fb1b18945ff76
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/b8/b874f26a75f88e0c2d3fb1b18945ff76"
-    projectPath: Library/Artifacts/b8/b874f26a75f88e0c2d3fb1b18945ff76
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b8/b8aacdabdf1c305a4eb66ba5ce08d0b4
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/b8/b8aacdabdf1c305a4eb66ba5ce08d0b4"
-    projectPath: Library/Artifacts/b8/b8aacdabdf1c305a4eb66ba5ce08d0b4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/b9/b9f563c17e9094c7b82da0ca277a073b
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/b9/b9f563c17e9094c7b82da0ca277a073b"
-    projectPath: Library/Artifacts/b9/b9f563c17e9094c7b82da0ca277a073b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/bd/bd4be406fc089cbd6f4aa536e642c8ef
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/bd/bd4be406fc089cbd6f4aa536e642c8ef"
-    projectPath: Library/Artifacts/bd/bd4be406fc089cbd6f4aa536e642c8ef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c1/c1492f48cc50da01ff60b6f5f3af22bd
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/c1/c1492f48cc50da01ff60b6f5f3af22bd"
-    projectPath: Library/Artifacts/c1/c1492f48cc50da01ff60b6f5f3af22bd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c1/c1b246969d17da706b095946108a23c5
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/c1/c1b246969d17da706b095946108a23c5"
-    projectPath: Library/Artifacts/c1/c1b246969d17da706b095946108a23c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c3/c37f8f1ce1f5315acac2e2db535c726c
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/c3/c37f8f1ce1f5315acac2e2db535c726c"
-    projectPath: Library/Artifacts/c3/c37f8f1ce1f5315acac2e2db535c726c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c6/c64f7d69f0e043462292a7fce90372fd
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/c6/c64f7d69f0e043462292a7fce90372fd"
-    projectPath: Library/Artifacts/c6/c64f7d69f0e043462292a7fce90372fd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/c7/c77e5410c3c832b27713d58cad4246b6
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/c7/c77e5410c3c832b27713d58cad4246b6"
-    projectPath: Library/Artifacts/c7/c77e5410c3c832b27713d58cad4246b6
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/47/4784136c3103d987ea1831cd407aeed8
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/47/4784136c3103d987ea1831cd407aeed8"
+    projectPath: Library/Artifacts/47/4784136c3103d987ea1831cd407aeed8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ca/ca216aa35da42a1bcc7a6e92b4c85797
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/ca/ca216aa35da42a1bcc7a6e92b4c85797"
-    projectPath: Library/Artifacts/ca/ca216aa35da42a1bcc7a6e92b4c85797
+  - path: Library/Artifacts/52/526fcc230dafaf6dcce3a2ed8dd9138e
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/52/526fcc230dafaf6dcce3a2ed8dd9138e"
+    projectPath: Library/Artifacts/52/526fcc230dafaf6dcce3a2ed8dd9138e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/d0/d075c81c8e64880b901320638092addf
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/d0/d075c81c8e64880b901320638092addf"
-    projectPath: Library/Artifacts/d0/d075c81c8e64880b901320638092addf
+  - path: Library/Artifacts/56/564c6b380adac12c3f8365e06d3c4551
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/56/564c6b380adac12c3f8365e06d3c4551"
+    projectPath: Library/Artifacts/56/564c6b380adac12c3f8365e06d3c4551
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/d1/d1a8c48472b5bd79ea15acc0abfe36f0
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/d1/d1a8c48472b5bd79ea15acc0abfe36f0"
-    projectPath: Library/Artifacts/d1/d1a8c48472b5bd79ea15acc0abfe36f0
+  - path: Library/Artifacts/5d/5d429bd916802086d025fd7b8b3eb61f
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/5d/5d429bd916802086d025fd7b8b3eb61f"
+    projectPath: Library/Artifacts/5d/5d429bd916802086d025fd7b8b3eb61f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/d4/d42b77a57e11d94d1519096523cd7843
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/d4/d42b77a57e11d94d1519096523cd7843"
-    projectPath: Library/Artifacts/d4/d42b77a57e11d94d1519096523cd7843
+  - path: Library/Artifacts/5e/5edda1ad133e8cf5e425edcab5471adf
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/5e/5edda1ad133e8cf5e425edcab5471adf"
+    projectPath: Library/Artifacts/5e/5edda1ad133e8cf5e425edcab5471adf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/d4/d456c5dd88de33d3751682dce1c8968a
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/d4/d456c5dd88de33d3751682dce1c8968a"
-    projectPath: Library/Artifacts/d4/d456c5dd88de33d3751682dce1c8968a
+  - path: Library/Artifacts/64/64e5ddfa5bb6cea3ca5cc09c29142684
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/64/64e5ddfa5bb6cea3ca5cc09c29142684"
+    projectPath: Library/Artifacts/64/64e5ddfa5bb6cea3ca5cc09c29142684
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/d8/d8ee8a1961e62d95587539dd522a8457
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/d8/d8ee8a1961e62d95587539dd522a8457"
-    projectPath: Library/Artifacts/d8/d8ee8a1961e62d95587539dd522a8457
+  - path: Library/Artifacts/6d/6d4b9d6172f2c19d2438091525acdd02
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/6d/6d4b9d6172f2c19d2438091525acdd02"
+    projectPath: Library/Artifacts/6d/6d4b9d6172f2c19d2438091525acdd02
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/da/da76fa20f57a044cc0b626fbaec61d20
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/da/da76fa20f57a044cc0b626fbaec61d20"
-    projectPath: Library/Artifacts/da/da76fa20f57a044cc0b626fbaec61d20
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/76/76f11bd985d51bab6124f99a5b225832
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/76/76f11bd985d51bab6124f99a5b225832"
+    projectPath: Library/Artifacts/76/76f11bd985d51bab6124f99a5b225832
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/e2/e2181ad38db27660dabfbe05734a9b39
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/e2/e2181ad38db27660dabfbe05734a9b39"
-    projectPath: Library/Artifacts/e2/e2181ad38db27660dabfbe05734a9b39
+  - path: Library/Artifacts/94/94ddf711ec2f4c8d7daec1522746aa56
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/94/94ddf711ec2f4c8d7daec1522746aa56"
+    projectPath: Library/Artifacts/94/94ddf711ec2f4c8d7daec1522746aa56
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/e3/e3df37c6dc47f23fc400b67dcdda8fca
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/e3/e3df37c6dc47f23fc400b67dcdda8fca"
-    projectPath: Library/Artifacts/e3/e3df37c6dc47f23fc400b67dcdda8fca
+  - path: Library/Artifacts/9d/9de132e5a49ced8dab1e21092f5003a0
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/9d/9de132e5a49ced8dab1e21092f5003a0"
+    projectPath: Library/Artifacts/9d/9de132e5a49ced8dab1e21092f5003a0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/e4/e4af619d8aa3f1bad34b28c13730cc6a
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/e4/e4af619d8aa3f1bad34b28c13730cc6a"
-    projectPath: Library/Artifacts/e4/e4af619d8aa3f1bad34b28c13730cc6a
+  - path: Library/Artifacts/a1/a173346a42a88963ad621be4b6da8366
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/a1/a173346a42a88963ad621be4b6da8366"
+    projectPath: Library/Artifacts/a1/a173346a42a88963ad621be4b6da8366
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ec/ec62436a9c22fc429daf2a4bd4073230
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/ec/ec62436a9c22fc429daf2a4bd4073230"
-    projectPath: Library/Artifacts/ec/ec62436a9c22fc429daf2a4bd4073230
+  - path: Library/Artifacts/ad/adf7f9bc7859234a98d4e9f532115470
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/ad/adf7f9bc7859234a98d4e9f532115470"
+    projectPath: Library/Artifacts/ad/adf7f9bc7859234a98d4e9f532115470
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ec/ece90dd30e861a317a3f203456bda20b
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/ec/ece90dd30e861a317a3f203456bda20b"
-    projectPath: Library/Artifacts/ec/ece90dd30e861a317a3f203456bda20b
+  - path: Library/Artifacts/b0/b0d851792dfe0c9d2bf78052d4956811
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/b0/b0d851792dfe0c9d2bf78052d4956811"
+    projectPath: Library/Artifacts/b0/b0d851792dfe0c9d2bf78052d4956811
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/ed/ed491eb8aff8ce2f7768e38036d07727
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/ed/ed491eb8aff8ce2f7768e38036d07727"
-    projectPath: Library/Artifacts/ed/ed491eb8aff8ce2f7768e38036d07727
+  - path: Library/Artifacts/b1/b16e3810c89cf807ae50fa38e5ce50d6
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/b1/b16e3810c89cf807ae50fa38e5ce50d6"
+    projectPath: Library/Artifacts/b1/b16e3810c89cf807ae50fa38e5ce50d6
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library/Artifacts/ee/ee63272aedaeefb851ec0b24b929d384
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/ee/ee63272aedaeefb851ec0b24b929d384"
-    projectPath: Library/Artifacts/ee/ee63272aedaeefb851ec0b24b929d384
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library/Artifacts/c2/c2194e714e240786d4673e3c5b21fa36
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/c2/c2194e714e240786d4673e3c5b21fa36"
+    projectPath: Library/Artifacts/c2/c2194e714e240786d4673e3c5b21fa36
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/f3/f3139034af959da7850dd618d51ed86d
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/f3/f3139034af959da7850dd618d51ed86d"
-    projectPath: Library/Artifacts/f3/f3139034af959da7850dd618d51ed86d
+  - path: Library/Artifacts/d0/d0e458e475a5773f75c9ac3f89c9a1a7
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/d0/d0e458e475a5773f75c9ac3f89c9a1a7"
+    projectPath: Library/Artifacts/d0/d0e458e475a5773f75c9ac3f89c9a1a7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/fe/fe035e29024d00232f0e453cc7e493fa
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/fe/fe035e29024d00232f0e453cc7e493fa"
-    projectPath: Library/Artifacts/fe/fe035e29024d00232f0e453cc7e493fa
+  - path: Library/Artifacts/e0/e06c09df5378329ab61cac9ab378ceed
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/e0/e06c09df5378329ab61cac9ab378ceed"
+    projectPath: Library/Artifacts/e0/e06c09df5378329ab61cac9ab378ceed
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library/Artifacts/fe/fe910dd9b7b843c23b2c83bc964ac7e9
-    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/fe/fe910dd9b7b843c23b2c83bc964ac7e9"
-    projectPath: Library/Artifacts/fe/fe910dd9b7b843c23b2c83bc964ac7e9
+  - path: Library/Artifacts/fd/fd2098b77920ba0de818598c51cc7883
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Artifacts/fd/fd2098b77920ba0de818598c51cc7883"
+    projectPath: Library/Artifacts/fd/fd2098b77920ba0de818598c51cc7883
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library/Collab/CollabSnapshot_3d96746e-46ef-49ae-afed-ef5baaf50fe8.txt
     fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/Collab/CollabSnapshot_3d96746e-46ef-49ae-afed-ef5baaf50fe8.txt"
     projectPath: Library/Collab/CollabSnapshot_3d96746e-46ef-49ae-afed-ef5baaf50fe8.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/CurrentLayout-default.dwlt
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/CurrentLayout-default.dwlt"
+    projectPath: Library/CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1537,6 +349,18 @@ MonoBehaviour:
   - path: Library/gfu/cache/repoinfo.yaml
     fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/gfu/cache/repoinfo.yaml"
     projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/LastSceneManagerSetup.txt
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/LastSceneManagerSetup.txt"
+    projectPath: Library/LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library/SceneVisibilityState.asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Library/SceneVisibilityState.asset"
+    projectPath: Library/SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1606,3 +430,376 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache"
+    projectPath: obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache"
+    projectPath: obj/Debug/Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp/__Backupscenes/1.backup
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/__Backupscenes/1.backup"
+    projectPath: Temp/__Backupscenes/1.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/11574abd1af34f249b413b2000b2ade1/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/11574abd1af34f249b413b2000b2ade1/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/11574abd1af34f249b413b2000b2ade1/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/11574abd1af34f249b413b2000b2ade1/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/11574abd1af34f249b413b2000b2ade1/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/11574abd1af34f249b413b2000b2ade1/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/11574abd1af34f249b413b2000b2ade1/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/11574abd1af34f249b413b2000b2ade1/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/11574abd1af34f249b413b2000b2ade1/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/23b077740d1334c108e966ea0126560d/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/23b077740d1334c108e966ea0126560d/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/23b077740d1334c108e966ea0126560d/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/23b077740d1334c108e966ea0126560d/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/23b077740d1334c108e966ea0126560d/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/23b077740d1334c108e966ea0126560d/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/2a8a77d2bef9e4eebb2d23a95ca31eb5/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/2a8a77d2bef9e4eebb2d23a95ca31eb5/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/2a8a77d2bef9e4eebb2d23a95ca31eb5/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/2a8a77d2bef9e4eebb2d23a95ca31eb5/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/2a8a77d2bef9e4eebb2d23a95ca31eb5/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/2a8a77d2bef9e4eebb2d23a95ca31eb5/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/2a8a77d2bef9e4eebb2d23a95ca31eb5/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/2a8a77d2bef9e4eebb2d23a95ca31eb5/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/2a8a77d2bef9e4eebb2d23a95ca31eb5/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/43354424808ea400d9012ab4ecbc65cf/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/43354424808ea400d9012ab4ecbc65cf/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/43354424808ea400d9012ab4ecbc65cf/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/43354424808ea400d9012ab4ecbc65cf/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/43354424808ea400d9012ab4ecbc65cf/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/43354424808ea400d9012ab4ecbc65cf/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/43354424808ea400d9012ab4ecbc65cf/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/43354424808ea400d9012ab4ecbc65cf/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/43354424808ea400d9012ab4ecbc65cf/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/868afda92093b427fb5dfab914cce113/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/868afda92093b427fb5dfab914cce113/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/868afda92093b427fb5dfab914cce113/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/868afda92093b427fb5dfab914cce113/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/868afda92093b427fb5dfab914cce113/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/868afda92093b427fb5dfab914cce113/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/868afda92093b427fb5dfab914cce113/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/868afda92093b427fb5dfab914cce113/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/868afda92093b427fb5dfab914cce113/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/a9bdfda6d00c8614ead08d0a2d171f0e/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/a9bdfda6d00c8614ead08d0a2d171f0e/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/a9bdfda6d00c8614ead08d0a2d171f0e/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/a9bdfda6d00c8614ead08d0a2d171f0e/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/a9bdfda6d00c8614ead08d0a2d171f0e/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/a9bdfda6d00c8614ead08d0a2d171f0e/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/a9bdfda6d00c8614ead08d0a2d171f0e/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/a9bdfda6d00c8614ead08d0a2d171f0e/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/a9bdfda6d00c8614ead08d0a2d171f0e/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c309307538e6c42dab43b0a5615792ca/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/c309307538e6c42dab43b0a5615792ca/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c309307538e6c42dab43b0a5615792ca/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c309307538e6c42dab43b0a5615792ca/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/c309307538e6c42dab43b0a5615792ca/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c309307538e6c42dab43b0a5615792ca/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c309307538e6c42dab43b0a5615792ca/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/c309307538e6c42dab43b0a5615792ca/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c309307538e6c42dab43b0a5615792ca/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c60e7f374b32d8c4884d0649e6640edb/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/c60e7f374b32d8c4884d0649e6640edb/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c60e7f374b32d8c4884d0649e6640edb/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c60e7f374b32d8c4884d0649e6640edb/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/c60e7f374b32d8c4884d0649e6640edb/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c60e7f374b32d8c4884d0649e6640edb/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c60e7f374b32d8c4884d0649e6640edb/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/c60e7f374b32d8c4884d0649e6640edb/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/c60e7f374b32d8c4884d0649e6640edb/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/cb90baf6807784fca96f6a982ee2c32a/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/cb90baf6807784fca96f6a982ee2c32a/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/cb90baf6807784fca96f6a982ee2c32a/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/cb90baf6807784fca96f6a982ee2c32a/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/cb90baf6807784fca96f6a982ee2c32a/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/cb90baf6807784fca96f6a982ee2c32a/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/cb90baf6807784fca96f6a982ee2c32a/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/cb90baf6807784fca96f6a982ee2c32a/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/cb90baf6807784fca96f6a982ee2c32a/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/ec484bfea63d14015ab7a718d9073eb0/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/ec484bfea63d14015ab7a718d9073eb0/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/ec484bfea63d14015ab7a718d9073eb0/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/ec484bfea63d14015ab7a718d9073eb0/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/ec484bfea63d14015ab7a718d9073eb0/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/ec484bfea63d14015ab7a718d9073eb0/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/ef78802d4127b424482cef75fbafbb5a/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/ef78802d4127b424482cef75fbafbb5a/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/ef78802d4127b424482cef75fbafbb5a/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/ef78802d4127b424482cef75fbafbb5a/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/ef78802d4127b424482cef75fbafbb5a/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/ef78802d4127b424482cef75fbafbb5a/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/ef78802d4127b424482cef75fbafbb5a/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/ef78802d4127b424482cef75fbafbb5a/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/ef78802d4127b424482cef75fbafbb5a/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f7d273905f2ba4445a63ccd95955bd7f/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/f7d273905f2ba4445a63ccd95955bd7f/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f7d273905f2ba4445a63ccd95955bd7f/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f7d273905f2ba4445a63ccd95955bd7f/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/f7d273905f2ba4445a63ccd95955bd7f/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f7d273905f2ba4445a63ccd95955bd7f/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f7d273905f2ba4445a63ccd95955bd7f/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/f7d273905f2ba4445a63ccd95955bd7f/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f7d273905f2ba4445a63ccd95955bd7f/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f802b8e34fcf14bd29c49cc122198f27/asset
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/f802b8e34fcf14bd29c49cc122198f27/asset"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f802b8e34fcf14bd29c49cc122198f27/asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f802b8e34fcf14bd29c49cc122198f27/asset.meta
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/f802b8e34fcf14bd29c49cc122198f27/asset.meta"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f802b8e34fcf14bd29c49cc122198f27/asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f802b8e34fcf14bd29c49cc122198f27/pathname
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/Export
+      Package/ab828c5b3242f4ff7b1595f8310f5501/f802b8e34fcf14bd29c49cc122198f27/pathname"
+    projectPath: Temp/Export Package/ab828c5b3242f4ff7b1595f8310f5501/f802b8e34fcf14bd29c49cc122198f27/pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-0530c7b5bb8e3456cb02b0f453e8fb31
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-0530c7b5bb8e3456cb02b0f453e8fb31"
+    projectPath: Temp/UnityTempFile-0530c7b5bb8e3456cb02b0f453e8fb31
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-1593e09a8ab2d4000ab64f76f51d2d21
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-1593e09a8ab2d4000ab64f76f51d2d21"
+    projectPath: Temp/UnityTempFile-1593e09a8ab2d4000ab64f76f51d2d21
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-39addbc3368f04feda35dd688ef1f85c
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-39addbc3368f04feda35dd688ef1f85c"
+    projectPath: Temp/UnityTempFile-39addbc3368f04feda35dd688ef1f85c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-45e93d58e17f84f299eb5ee6f0de0e37
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-45e93d58e17f84f299eb5ee6f0de0e37"
+    projectPath: Temp/UnityTempFile-45e93d58e17f84f299eb5ee6f0de0e37
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-515f36c1b8af341f0a3f2963449316b6
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-515f36c1b8af341f0a3f2963449316b6"
+    projectPath: Temp/UnityTempFile-515f36c1b8af341f0a3f2963449316b6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-5f19079249d83442faf1d8ce966f3a9f
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-5f19079249d83442faf1d8ce966f3a9f"
+    projectPath: Temp/UnityTempFile-5f19079249d83442faf1d8ce966f3a9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6c71df64bbd264e9e805621dbdcfaae7
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-6c71df64bbd264e9e805621dbdcfaae7"
+    projectPath: Temp/UnityTempFile-6c71df64bbd264e9e805621dbdcfaae7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-6fbba80a25d5f43b283302074550aa73
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-6fbba80a25d5f43b283302074550aa73"
+    projectPath: Temp/UnityTempFile-6fbba80a25d5f43b283302074550aa73
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-77ecd8fd9a31247b09aa34a2057fc5af
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-77ecd8fd9a31247b09aa34a2057fc5af"
+    projectPath: Temp/UnityTempFile-77ecd8fd9a31247b09aa34a2057fc5af
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-78c73ce023095450b9b95720d1c55bac
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-78c73ce023095450b9b95720d1c55bac"
+    projectPath: Temp/UnityTempFile-78c73ce023095450b9b95720d1c55bac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-7f672497d06cc40b68be108107d318ca
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-7f672497d06cc40b68be108107d318ca"
+    projectPath: Temp/UnityTempFile-7f672497d06cc40b68be108107d318ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-95448a47df4d84d3da90fc57750ce123
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-95448a47df4d84d3da90fc57750ce123"
+    projectPath: Temp/UnityTempFile-95448a47df4d84d3da90fc57750ce123
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-9c6947b52694d4f4c9bc7d6f6c7b20eb
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-9c6947b52694d4f4c9bc7d6f6c7b20eb"
+    projectPath: Temp/UnityTempFile-9c6947b52694d4f4c9bc7d6f6c7b20eb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a10123a5b2b3a41aaa10788edbb830d9
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-a10123a5b2b3a41aaa10788edbb830d9"
+    projectPath: Temp/UnityTempFile-a10123a5b2b3a41aaa10788edbb830d9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-a7f72d7d3d9b949ed9b17ac0d002973a
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-a7f72d7d3d9b949ed9b17ac0d002973a"
+    projectPath: Temp/UnityTempFile-a7f72d7d3d9b949ed9b17ac0d002973a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp/UnityTempFile-bf995eccf1d424d188db2e3d58a95948
+    fullPath: "/Users/peter/Desktop/tencent_game_design/Speech-And-Text-Unity-iOS-Android-master/\u521D\u7248demo/Temp/UnityTempFile-bf995eccf1d424d188db2e3d58a95948"
+    projectPath: Temp/UnityTempFile-bf995eccf1d424d188db2e3d58a95948
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
