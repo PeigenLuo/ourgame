@@ -4,12 +4,14 @@ using UnityEngine;
 
 public class newPlayerController : MonoBehaviour
 {
-
+    public GameObject interactIcon;
     public CharacterController2D controller;
     public Animator animator;
     public Transform CameraTrans;
     
     public float runSpeed = 40f;
+
+    private Vector2 boxSize = new Vector2(0.1f, 1f);
     
     float horizontalMove = 0f;
 //    bool jump = false;
@@ -37,6 +39,12 @@ public class newPlayerController : MonoBehaviour
             crouch = false;
             animator.SetBool("CrouchingReversed", true);
         }
+
+        // interactions
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            CheckInteraction();
+        }
     }
     
     public void OnCrouching (bool isCrouching)
@@ -53,4 +61,30 @@ public class newPlayerController : MonoBehaviour
 //        jump = false;
     }
 
+    public void OpenInteractableIcon()
+    {
+        interactIcon.SetActive(true);
+    }
+
+    public void CloseInteractableIcon()
+    {
+        interactIcon.SetActive(false);
+    }
+
+    private void CheckInteraction()
+    {
+        RaycastHit2D[] hits = Physics2D.BoxCastAll(transform.position, boxSize, 0, Vector2.zero);
+
+        if(hits.Length > 0)
+        {
+            foreach(RaycastHit2D rc in hits)
+            {
+                if (rc.transform.GetComponent<Interactable>())
+                {
+                    rc.transform.GetComponent<Interactable>().Interact();
+                    return;
+                }
+            }
+        }
+    }
 }

@@ -1,19 +1,26 @@
 ﻿<Properties StartupConfiguration="{9AD72490-DF76-5180-D4C4-8C5912188777}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/toNextScene.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneController.cs">
     <Files>
       <File FileName="Assets/Scripts/BtnOpenBag.cs" Line="15" Column="1" />
-      <File FileName="Assets/Scripts/BagPanelManage.cs" Line="12" Column="38" />
-      <File FileName="Assets/Scripts/BtnOpenLights.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/LightsOnandOff.cs" Line="17" Column="40" />
+      <File FileName="Assets/Scripts/BagPanelManage.cs" />
+      <File FileName="Assets/Scripts/BtnOpenLights.cs" />
+      <File FileName="Assets/Scripts/LightsOnandOff.cs" />
       <File FileName="Assets/Scripts/UILights.cs" />
-      <File FileName="Assets/Scripts/MusicBox.cs" Line="19" Column="41" />
-      <File FileName="Assets/Scripts/toNextScene.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/UnitySingleton.cs" Line="34" Column="10" />
+      <File FileName="Assets/Scripts/MusicBox.cs" />
+      <File FileName="Assets/Scripts/toNextScene.cs" Line="19" Column="38" />
+      <File FileName="Assets/Scripts/UnitySingleton.cs" />
+      <File FileName="Assets/Scriptable Objects/Character.cs" Line="5" Column="1" />
+      <File FileName="Assets/Scriptable Objects/Conversation.cs" Line="20" Column="25" />
+      <File FileName="Assets/Scripts/newPlayerController.cs" Line="46" Column="32" />
+      <File FileName="Assets/Scripts/Interactable.cs" Line="14" Column="6" />
+      <File FileName="Assets/Scripts/Openable.cs" Line="26" Column="26" />
+      <File FileName="Assets/Scripts/Door.cs" Line="7" Column="17" />
+      <File FileName="Assets/Scripts/SceneController.cs" Line="3" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e9750ee8-3a68-44f0-910b-52cac2d045e2" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="28c0bc97-a883-412c-b454-66f83aec3bb4" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
